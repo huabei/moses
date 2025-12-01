@@ -1,3 +1,5 @@
+some update for latest rdkit and pandas version adaption.
+
 # Molecular Sets (MOSES): A benchmarking platform for molecular generation models
 
 [![Build Status](https://travis-ci.com/molecularsets/moses.svg?branch=master)](https://travis-ci.com/molecularsets/moses) [![PyPI version](https://badge.fury.io/py/molsets.svg)](https://badge.fury.io/py/molsets)
